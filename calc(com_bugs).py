@@ -27,9 +27,11 @@ elif operacao ==4:
         div=int(n1/n2)
         print('Seu resultado:',div)
 elif operacao ==5:
-        print('Deixei para matheus terminar')
+        pot=n1**n2
+        print('seu resultado',pot)
 elif operacao ==6:
-        print('Deixei para matheus terminar')
+        rad=n1**(1/n2)
+        print('seu resultador',rad)
 else:
         print('Opção invalida - Digite um valor de 1 a 6 na opção')
 
