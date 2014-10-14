@@ -31,7 +31,7 @@ elif operacao ==5:
         print('seu resultado',pot)
 elif operacao ==6:
         rad=n1**(1/n2)
-        print('seu resultador',rad)
+        print('seu resultado',rad)
 else:
         print('Opção invalida - Digite um valor de 1 a 6 na opção')
 
