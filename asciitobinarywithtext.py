@@ -5,5 +5,5 @@ binario=[]
 i=0
 for i in range(len(lista)):
   binario.append(bin(int(ord(lista[i])))
-print(binario)
+  print(binario[i])
 
