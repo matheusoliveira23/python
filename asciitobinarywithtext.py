@@ -4,6 +4,11 @@ lista=list(string)
 binario=[]
 i=0
 for i in range(len(lista)):
-  binario.append(bin(int(ord(lista[i])))
-  print(binario[i])
+  binario.append(bin(ord(lista[i])))
+  #print(binario[i])
+print(binario)
+
+
+
+by: Gusttavomarinho
 
