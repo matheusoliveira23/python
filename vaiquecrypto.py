@@ -9,6 +9,3 @@ for i in range(len(vet)):
     num.append((num[i]+40))
     random.shuffle(num)
 print('mensagem encriptada na forma decimal: ',num)
-#def decripta(vet):
-    #random
-    
