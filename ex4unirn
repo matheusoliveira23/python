@@ -1,0 +1,6 @@
+#exemplo4 aula 4 sintaxe python unirn
+dolar=float(input("digite um valor em dolar\t"))
+real=3.21*dolar
+print("%.3f" %real)
+
+
